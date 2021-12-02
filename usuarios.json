@@ -1,0 +1,60 @@
+[{
+    "cod": "0001",
+    "nombres": "Pedro",
+    "apellidos": "Perez Castro",
+    "usuario": "usu0001",
+    "password": "pass0001",
+    "email": "asffw@gmail.com",
+    "telefono": "3106584847",
+    "pais": "Colombia",
+    "ciudad": "Cali",
+    "direccion": "cra54"
+},
+{
+    "cod": "0002",
+    "nombres": "Juan",
+    "apellidos": "Carrillo",
+    "usuario": "usu0002",
+    "password": "pass0002",
+    "email": "gfhfghg@gmail.com",
+    "telefono": "3107787877",
+    "pais": "Colombia",
+    "ciudad": "Bogota",
+    "direccion": "cra4"
+},
+{
+    "cod": "0003",
+    "nombres": "Ana",
+    "apellidos": "Gonzales",
+    "usuario": "usu0003",
+    "password": "pass0003",
+    "email": "uyiyubh@gmail.com",
+    "telefono": "318184574",
+    "pais": "USA",
+    "ciudad": "New York",
+    "direccion": "Av. Franklin"
+},
+{
+    "cod": "0004",
+    "nombres": "Natalia",
+    "apellidos": "Guzman Jimenez",
+    "usuario": "usu0004",
+    "password": "pass0004",
+    "email": "agfdg45544@gmail.com",
+    "telefono": "3184718818",
+    "pais": "Mexico",
+    "ciudad": "MexicoDF",
+    "direccion": "Cll36"
+},
+{
+    "cod": "0005",
+    "nombres": "Daniela",
+    "apellidos": "Portas Lleras",
+    "usuario": "usu0005",
+    "password": "pass0005", 
+    "email": "rtyr8465@gmail.com",
+    "telefono": "31652695564",
+    "pais": "España",
+    "ciudad": "Madrid",
+    "direccion": "Av. Aranjuez"
+}]

@@ -1,0 +1,42 @@
+[{
+  "cod": "0001",
+  "nombre": "Descubrir que soy",
+  "formato": "Audio",
+  "fechaGrabacion": "12-10-2019",
+  "tematica": "Filosofia",
+  "invitado": "Pastor Juan Perez"
+
+},
+{
+  "cod": "0002",
+  "nombre": "El porque de las cosas",
+  "formato": "Audio",
+  "fechaGrabacion": "11-10-2018",
+  "tematica": "Filosofia",
+  "invitado": "Dr. Juan Caicedo"
+
+},
+{
+  "cod": "0003",
+  "nombre": "El futuro de la Humanidad",
+  "formato": "Audio",
+  "fechaGrabacion": "11-05-2020",
+  "tematica": "Filosofia",
+  "invitado": "Ninguno"
+},
+{
+  "cod": "0004",
+  "nombre": "Como se debe criar a las personas",
+  "formato": "Audio",
+  "fechaGrabacion": "25-04-2021",
+  "tematica": "Sicologia",
+  "invitado": "Ninguno"
+},
+{
+  "cod": "0005",
+  "nombre": "Principio y fin",
+  "formato": "Audio",
+  "fechaGrabacion": "23-06-2021",
+  "tematica": "Alternativo",
+  "invitado": "Ana Restrepo"
+}]

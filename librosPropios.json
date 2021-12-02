@@ -1,0 +1,60 @@
+[{
+  "cod": "0001",
+  "nombre": "Cannibal Corpe",
+  "formato": "Físico",
+  "autor": "Jim Delacroix",
+  "editorial": "Space",
+  "categoria": "Terror",
+  "paginas": "289",
+  "year": "2019",
+  "idioma": "Español",
+  "precio": "64000"
+},
+{
+  "cod": "0002",
+  "nombre": "Deicide",
+  "formato": "Físico",
+  "autor": "Jim Delacroix",
+  "editorial": "Space",
+  "categoria": "Terror",
+  "paginas": "333",
+  "year": "2019",
+  "idioma": "Español",
+  "precio": "73900"
+},
+{
+  "cod": "0003",
+  "nombre": "Sepultura",
+  "formato": "Físico",
+  "autor": "Jim Delacroix",
+  "editorial": "Space",
+  "categoria": "Ficcion",
+  "paginas": "419",
+  "year": "2020",
+  "idioma": "Español",
+  "precio": "35000"
+},
+{
+  "cod": "0004",
+  "nombre": "Gogoroth",
+  "formato": "Físico",
+  "autor": "Jim Delacroix",
+  "editorial": "Space",
+  "categoria": "Terror",
+  "paginas": "403",
+  "year": "2021",
+  "idioma": "Español",
+  "precio": "35900"
+},
+{
+  "cod": "0005",
+  "nombre": "Sodom",
+  "formato": "Físico",
+  "autor": "Jim Delacroix",
+  "editorial": "Space",
+  "categoria": "Ficcion",
+  "paginas": "332",
+  "year": "2017",
+  "idioma": "Español",
+  "precio": "36900"
+}]

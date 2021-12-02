@@ -1,0 +1,110 @@
+[{
+  "cod": "0001",
+  "nombre": "La vida te ama",
+  "formato": "Audiolibro",
+  "autor": "Louise L",
+  "editorial": "Grupo Planeta",
+  "categoria": "Autoayuda",
+  "year": "2018",
+  "idioma": "Español",
+  "precio": "65000"
+},
+{
+  "cod": "0002",
+  "nombre": "La Biologia del Presente",
+  "formato": "Audiolibro",
+  "autor": "Sergi Torres",
+  "editorial": "Grupo Planeta",
+  "categoria": "Autoayuda",
+  "year": "2020",
+  "idioma": "Español",
+  "precio": "48000"
+},
+{
+  "cod": "0003",
+  "nombre": "Crea y Divaga",
+  "formato": "Audiolibro",
+  "autor": "Jeff Bezos",
+  "editorial": "Planeta Audio",
+  "categoria": "Finanzas",
+  "year": "2021",
+  "idioma": "Español",
+  "precio": "54900"
+},
+{
+  "cod": "0004",
+  "nombre": "¿A que estas esperando?",
+  "formato": "Audiolibro",
+  "autor": "Megan Maxwell",
+  "editorial": "Grupo Planeta",
+  "categoria": "Sicologia",
+  "year": "2020",
+  "idioma": "Español",
+  "precio": "62900"
+},
+{
+  "cod": "0005",
+  "nombre": "Mundo sin Dioses",
+  "formato": "Audiolibro",
+  "autor": "Benito Taibo",
+  "editorial": "Grupo Planeta",
+  "categoria": "Esoterico",
+  "year": "2020",
+  "idioma": "Español",
+  "precio": "52900"
+},
+{
+  "cod": "0006",
+  "nombre": "Las horas de terciopelo",
+  "formato": "Audiolibro",
+  "autor": "Alyson Richman",
+  "editorial": "Grupo Planeta",
+  "categoria": "Historia",
+  "year": "2020",
+  "idioma": "Español",
+  "precio": "79900"
+},
+{
+  "cod": "0007",
+  "nombre": "La dama de guerra",
+  "formato": "Audiolibro",
+  "autor": "Marie Benedict",
+  "editorial": "Grupo Planeta",
+  "categoria": "Novela",
+  "year": "2020",
+  "idioma": "Español",
+  "precio": "79900"
+},
+{
+  "cod": "0008",
+  "nombre": "Remember",
+  "formato": "Audiolibro",
+  "autor": "Asley Royer",
+  "editorial": "Grupo Planeta",
+  "categoria": "Ficcion",
+  "year": "2017",
+  "idioma": "Español",
+  "precio": "47900"
+},
+{
+  "cod": "0009",
+  "nombre": "Los amantes de Praga",
+  "formato": "Audiolibro",
+  "autor": "Alyson Richman",
+  "editorial": "Grupo Planeta",
+  "categoria": "Novela",
+  "year": "2020",
+  "idioma": "Español",
+  "precio": "79900"
+},
+{
+  "cod": "0010",
+  "nombre": "Dios te tiene un plan",
+  "formato": "Audiolibro",
+  "autor": "Hannah Brencher",
+  "editorial": "Grupo Planeta",
+  "categoria": "Autoayuda",
+  "year": "2020",
+  "idioma": "Español",
+  "precio": "64900"
+}]
